@@ -1,0 +1,5 @@
+name: AutoTNT
+main: com.mutinycraft.jigsaw.AutoTNT.AutoTNT
+version: 1.0
+author: Jigsaw
+description: Forces TNT to auto-ignite when it is placed.
